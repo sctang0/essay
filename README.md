@@ -1,6 +1,4 @@
-# Essay
-
-杂文集
+# 杂文集
 
 1. [vim使用](./essaies/vim使用.md)
 

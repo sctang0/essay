@@ -1,0 +1,8 @@
+# Visual Studio Code
+.history
+
+# Mac
+.DS_Store
+
+# Git
+..gitignore.un~

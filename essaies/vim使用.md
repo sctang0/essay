@@ -55,7 +55,7 @@
 
 ### 03. vim配置
 
-Visual Studio Code中存在vim的插件。
+Visual Studio Code中存在vim的插件。在命令行模式下输入`:set relativenumber`可显示相对行号。
 
 ```tex
 # 显示相对行号
